@@ -62,3 +62,4 @@ typings/
 .netlify
 .vscode
 out
+build
