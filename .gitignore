@@ -63,3 +63,4 @@ typings/
 .vscode
 out
 build
+package-lock.json

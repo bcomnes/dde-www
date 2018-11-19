@@ -1,3 +1,6 @@
 {
-  "lts-version": "v2.5.9"
+  "lts-version": {
+    "version": "v2.5.9",
+    "notes": "foo bar"
+  }
 }
